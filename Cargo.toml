@@ -9,3 +9,6 @@ description = "A chat application to learn"
 
 [dependencies]
 mio="0.5.0"
+http-muncher = "0.2.0"
+rustc-serialize = "0.3.15"
+sha1 = "0.1.1"
